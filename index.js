@@ -25,6 +25,7 @@ module.exports = {
   eqArrays: eqArrays,
   eqObjects: eqObjects,
   findKey: findKey,
+  findKeyByValue: findKeyByValue,
   letterPositions: letterPositions,
 
 };
